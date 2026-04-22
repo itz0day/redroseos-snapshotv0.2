@@ -1,0 +1,11 @@
+[Configuration]
+FontName=JetBrainsMono Nerd Font 11
+ColorPalette=#000000;#cc0000;#4e9a06;#c4a000;#3465a4;#75507b;#06989a;#d3d7cf;#555753;#ef2929;#8ae234;#fce94f;#729fcf;#ad7fa8;#34e2e2;#eeeeec
+ColorBackground=#1a0505
+ColorForeground=#ffffff
+ColorCursor=#ff0000
+TabActivityColor=#cc0000
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
+DropdownKeepAbove=TRUE
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+BackgroundOpacity=0.85
